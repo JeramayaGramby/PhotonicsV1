@@ -1,0 +1,10 @@
+.venv
+venv
+__pycache__
+*.pyc
+.env
+mysql.env
+mysql.env.sample
+.DS_Store
+node_modules
+E:/
